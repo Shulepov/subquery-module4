@@ -1,0 +1,23 @@
+{
+  "data": {
+    "sumRewards": {
+      "nodes": [
+        {
+          "blockheight": 7013941,
+          "id": "12bDpMZdKaTt1nYbeh3bQ23MtHgcJfiQE2kDNK21RMtZnrbE",
+          "totalReward": "1204997822444",
+          "stakingRewardsByAccountId": {
+            "nodes": [
+              {
+                "balance": "829848987104"
+              },
+              {
+                "balance": "375148835340"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
